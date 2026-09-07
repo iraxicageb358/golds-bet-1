@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://golds-bet-1.vercel.app/sitemap.xml
+Sitemap: https://golds-bet-1-three.vercel.app/sitemap.xml
